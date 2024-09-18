@@ -1,0 +1,438 @@
+/***products***/
+
+
+.all{
+    
+    width: 150px;
+    justify-content: space-around;
+    
+}
+
+.t-shert{
+  
+
+
+    position: relative;
+    left: 550px;
+    justify-content: center; 
+    padding-top: 50px;
+    width: 350px;
+}
+.card{
+   margin-left: 100px;
+    position: relative;
+    top: 15px;
+    display: grid;
+    margin-top: 200px;
+    width: 150px;  
+    justify-content: space-around;
+}
+
+
+.card2{
+      display: grid;
+    position: relative;
+    
+    margin-left: 120px;
+    top: 100px;
+    width: 150px;
+    box-sizing: border-box;
+}
+
+.card3{
+ 
+ position: relative;
+ margin-left: 100px;
+ width: 150px;
+ right: 400px;
+ left:270px ;
+ bottom: 490px;
+
+
+   
+}
+
+.card4{
+
+    position: relative;
+    
+     bottom: 999px;
+    
+    left: 650px;
+    right: 200px;
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card5{
+
+  
+    position: relative;
+    bottom: 130.5cap;
+    left: 999px;
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card6{
+  
+    position: relative;
+    bottom: 142cap; 
+    left:  450px;
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card7{
+ 
+    position: relative;
+    bottom: 184cap; 
+    
+    left:  750px;
+
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card8{
+    position: relative;
+    bottom: 226cap; 
+    
+    left:  1050px;
+  
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card9{
+    position: relative;
+    bottom: 240cap; 
+    
+    left:  1050px;
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+.card10{
+    position: relative;
+    bottom: 283cap; 
+    
+    left:  750px;
+   
+    margin-top: 20cap;
+    justify-content: flex-start;
+}
+
+
+.ser{
+    position: relative;
+    right:180px ;
+}
+
+
+.des{
+    position: relative;
+    right:540px ;
+    top: 35px;
+
+
+}
+
+.h61{
+
+position: relative;
+right:540px ;
+top: 35px;
+width: 200px;
+font-size: small;
+
+
+}
+
+
+
+
+
+.dep{
+    position: relative;
+    left: 150px; ;
+    bottom: 250px;
+
+}
+.h62{
+
+
+    position: relative;
+    left: 150px; ;
+    bottom: 90px;
+    width: 250px;
+    font-size: small;
+}
+
+.div{
+    position: relative;
+    right:220px ;
+    bottom: 120px;
+
+
+}
+
+
+.h63{
+
+    position: relative;
+    right:220px ;
+    width: 250px;
+    font-size: small;    
+    bottom: 250px;
+}
+
+
+   /***********finsh*************/
+
+.img1{
+    width: 100px;
+}
+
+.p{
+    font-size: small;
+}
+
+.btn{
+    
+    margin-left: 15px;
+    margin-right: 15px;
+
+    background-color: rgb(106, 130, 225);
+}
+
+/**********************/
+
+header{
+    position: relative;
+    top: 0cap;
+    background-color: bisque;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+
+
+/*---------*/
+.logo{
+    text-decoration: none;
+    color: cornflowerblue;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+    
+}
+
+.navigation a{
+color: rgb(27, 63, 145);
+text-decoration: none;
+font-size:1.1em ;
+font-weight: 500;
+padding-left: 30px;
+
+
+}
+.navigation a:hover{
+    
+    color: cornflowerblue;
+
+}
+/* finsh the header */
+
+/*contact page*/
+
+.mb-3{
+    position: relative;
+    left: 850px;
+    width: 400px;
+    height: 200px;
+}
+
+.h1{
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
+
+.h6{
+    position: relative;
+    top: 200px;
+    left: 150px;
+}
+.btn2{
+    position: relative;
+    border-radius: 2cap;
+    background-color: rgb(146, 204, 204);
+    top: 200px;
+    left: 130px;
+
+}
+.btn2:hover{
+    background-color: rgb(151, 243, 248);
+}
+
+
+.form-control{
+    position: relative;
+
+    bottom: 300px;
+
+}
+
+.send{
+    background-color: rgb(216, 229, 142);
+    position: relative;
+    bottom: 130%;
+    width: 350px;
+    border-radius: 5cap;
+}
+
+.send:hover{
+    background-color: rgb(245, 245, 134);
+}
+/*****/
+
+
+
+
+/*secssion navbar*/
+[class="container-fluid"]{
+    background-color: rgb(186, 203, 149);
+}
+
+[class="nav-link active"]{
+    position: relative;
+    left: 950px;
+}
+
+[class="nav-link"]{
+    position: relative;
+    left: 960px;
+}
+
+
+
+
+/**about page**/
+
+
+.img2{
+    position: relative;
+    left: 220px;
+    top: 100px;
+    width: 250px;
+    height: 300px;
+    border-bottom: 90cap;
+}
+
+
+.hello{
+    position: relative;
+    left: 820px;
+    bottom: 150px;
+
+}
+
+.lorem{
+  width: 350px;
+  position: relative;
+  left: 820px;
+  bottom: 140px;
+
+
+}
+
+.soft{
+    width: 300px;
+    position: relative;
+    left:80%;
+
+    bottom: 113px;
+    font-size: small;
+  
+}
+
+.loc{
+    font-size: small;
+
+    width: 300px;
+    position: relative;
+    left: 820px;
+    bottom: 140px;
+  
+  
+}
+   
+.name{
+    width: 300px;
+    position: relative;
+    left:80%;
+
+    bottom: 140px;
+    font-size: small;
+  
+  
+}
+
+
+.mail{
+
+    font-size: small;
+
+    width: 300px;
+    position: relative;
+    left: 65%;
+    bottom: 120px;
+}
+.age{
+    
+    font-size: small;
+
+    width: 300px;
+    position: relative;
+    left: 65%;
+    bottom: 120px;
+
+}
+
+.free{
+    font-size: small;
+
+    width: 300px;
+    position: relative;
+    left: 80%;
+    bottom: 140px;
+}
+
+
+.don{
+  position: relative;
+  left: 820px;
+  background-color: rgb(122, 218, 117);
+
+}
+.don:hover{
+    background-color: greenyellow;
+}
+.here{
+    position: relative;
+    left: 850px;
+    background-color: rgb(167, 220, 235);
+
+}
+
+.here:hover{
+    background-color: cornflowerblue;
+}
+
